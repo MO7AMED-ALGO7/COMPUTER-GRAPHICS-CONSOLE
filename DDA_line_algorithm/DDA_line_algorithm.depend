@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1654356451 source:c:\users\ddr\desktop\graphics primitives\dda_line_algorithm\main.cpp
+	<iostream>
+	<windows.h>
+	<cmath>
+

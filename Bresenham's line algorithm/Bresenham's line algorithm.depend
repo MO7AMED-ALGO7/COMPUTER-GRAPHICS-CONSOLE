@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1654359163 source:c:\users\ddr\desktop\graphics primitives\bresenham's line algorithm\main.cpp
+	<iostream>
+	<windows.h>
+	<cmath>
+
