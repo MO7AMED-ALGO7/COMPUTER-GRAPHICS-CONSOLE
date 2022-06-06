@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1654524693 source:c:\users\ddr\desktop\graphics primitives\forvideo\main.cpp
+	<iostream>
+	<windows.h>
+
