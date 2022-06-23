@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1655908351 source:c:\users\ddr\desktop\graphics primitives\scanfill0\main.cpp
+	<iostream>
+	<windows.h>
+	<vector>
+
