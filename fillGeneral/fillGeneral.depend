@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1656506740 source:c:\users\ddr\desktop\graphics primitives\fillgeneral\main.cpp
+	<iostream>
+	<windows.h>
+
