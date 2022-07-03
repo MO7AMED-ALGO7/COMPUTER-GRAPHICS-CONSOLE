@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1656850918 source:c:\users\ddr\desktop\graphics primitives\midpointellipse\main.cpp
+	<iostream>
+	<windows.h>
+
